@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Sokoban-gravity-mod-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv1"
+  },
+  {
+    "id": "Sokoban-gravity-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv"
+  },
+  {
+    "id": "Sokoban-gravity-v2",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv2"
+  },
+  {
+    "id": "Sokoban-gravity-small-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv_Small0"
+  },
+  {
+    "id": "Sokoban-gravity-small-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv_Small1"
+  },
+  {
+    "id": "Sokoban-gravity-large-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv_Large0"
+  },
+  {
+    "id": "Sokoban-gravity-large-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv_Large1"
+  },
+  {
+    "id": "Sokoban-gravity-large-v2",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv_Large2"
+  },
+  {
+    "id": "Sokoban-gravity-huge-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:SokobanEnv_Huge0"
+  },
+  {
+    "id": "FixedTarget-Sokoban-gravity-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:FixedTargets_Env_v0"
+  },
+  {
+    "id": "FixedTarget-Sokoban-gravity-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:FixedTargets_Env_v1"
+  },
+  {
+    "id": "FixedTarget-Sokoban-gravity-v2",
+    "entry_point": "gym_sokoban_mod_gravity.envs:FixedTargets_Env_v2"
+  },
+  {
+    "id": "FixedTarget-Sokoban-gravity-v3",
+    "entry_point": "gym_sokoban_mod_gravity.envs:FixedTargets_Env_v3"
+  },
+  {
+    "id": "PushAndPull-Sokoban-gravity-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:PushAndPull_Env_v0"
+  },
+  {
+    "id": "PushAndPull-Sokoban-gravity-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:PushAndPull_Env_v1"
+  },
+  {
+    "id": "PushAndPull-Sokoban-gravity-v2",
+    "entry_point": "gym_sokoban_mod_gravity.envs:PushAndPull_Env_v2"
+  },
+  {
+    "id": "PushAndPull-Sokoban-gravity-v3",
+    "entry_point": "gym_sokoban_mod_gravity.envs:PushAndPull_Env_v3"
+  },
+  {
+    "id": "PushAndPull-Sokoban-gravity-v4",
+    "entry_point": "gym_sokoban_mod_gravity.envs:PushAndPull_Env_v4"
+  },
+  {
+    "id": "PushAndPull-Sokoban-gravity-v5",
+    "entry_point": "gym_sokoban_mod_gravity.envs:PushAndPull_Env_v5"
+  },
+  {
+    "id": "TwoPlayer-Sokoban-gravity-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:TwoPlayer_Env0"
+  },
+  {
+    "id": "TwoPlayer-Sokoban-gravity-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:TwoPlayer_Env1"
+  },
+  {
+    "id": "TwoPlayer-Sokoban-gravity-v2",
+    "entry_point": "gym_sokoban_mod_gravity.envs:TwoPlayer_Env2"
+  },
+  {
+    "id": "TwoPlayer-Sokoban-gravity-v3",
+    "entry_point": "gym_sokoban_mod_gravity.envs:TwoPlayer_Env3"
+  },
+  {
+    "id": "TwoPlayer-Sokoban-gravity-v4",
+    "entry_point": "gym_sokoban_mod_gravity.envs:TwoPlayer_Env4"
+  },
+  {
+    "id": "TwoPlayer-Sokoban-gravity-v5",
+    "entry_point": "gym_sokoban_mod_gravity.envs:TwoPlayer_Env5"
+  },
+  {
+    "id": "Boxoban-gravity-Train-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:Boxban_Env0"
+  },
+  {
+    "id": "Boxoban-gravity-Test-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:Boxban_Env0_test"
+  },
+  {
+    "id": "Boxoban-gravity-Val-v0",
+    "entry_point": "gym_sokoban_mod_gravity.envs:Boxban_Env0_val"
+  },
+  {
+    "id": "Boxoban-gravity-Train-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:Boxban_Env1"
+  },
+  {
+    "id": "Boxoban-gravity-Val-v1",
+    "entry_point": "gym_sokoban_mod_gravity.envs:Boxban_Env1_val"
+  }
+]

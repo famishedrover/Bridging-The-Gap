@@ -1,0 +1,24 @@
+age,ai_knowledge,education,exp_additional_info,exp_rating,Foil-id ,gender,plan_knowledge,planning_formalisms,selected_exp
+25,no,masters,,4,C,male,no,,concept_exp
+26,no,undergrad,,4,C,male,no,,concept_exp
+29,yes,undergrad,,3,A,male,no,,concept_exp
+25,yes,masters,,4,C,female,no,,concept_exp
+23,no,undergrad,,2,A,female,no,,concept_exp
+26,yes,masters,,3,C,male,yes,,concept_exp
+27,no,masters,Direction of skull movement is required too.,3,C,male,no,,concept_exp
+27,no,masters,The other better information would be “ only jump actions can be performed while one the rope’ is True”,2,A,female,no,,concept_exp
+25,yes,masters,,1,A,female,no,,simple_exp
+22,yes,masters,,5,B,male,yes,"Deductive planning used in FOL
+State-Based Planning
+Etc",concept_exp
+25,no,undergrad,,1,D,male,no,,concept_exp
+24,yes,masters,,5,B,male,yes,"STRIPS, PDDL",concept_exp
+23,no,undergrad,Can be more complete with visual explanation such as an image showing that moving right when on the rope is not viable.,4,A,male,no,,concept_exp
+23,no,undergrad,,3,B,female,no,,concept_exp
+28,no,masters,,2,B,male,no,,concept_exp
+23,yes,undergrad,"It should have been specified that the player can only use the ladder to move between the level and not just ""fall"" off the leftmost edge.",3,B,male,,Probabilistic Planning  and Conditional Planning Techniques,concept_exp
+33,yes,undergrad,Check within a certain radius of ladder,5,D,male,yes,"State space search
+Finite space search",concept_exp
+24,no,undergrad,,4,D,male,no,,concept_exp
+22,yes,undergrad,,5,D,female,no,,concept_exp
+24,yes,undergrad,"Relative current position of the spider with respect to the player, and in which direction it is most likely to move",4,D,female,no,,concept_exp

@@ -1,0 +1,140 @@
+﻿ Sokoban-cell
+ 
+ Similar Concepts:
+--------------------------------------------------------------------------
+"No_wall_below", "There is no wall right below the box" 
+ "Wall_below", "There is wall below the yellow box." 
+"No_wall_below", "There is no wall below the yellow box."
+"Wall_down", "There is a wall down"
+"No_wall_down_1", "There is no wall down for 1 move" 
+"No_wall_bottom", "There is no wall while going down"
+---
+"No_wall_down_m", "There is no wall down for more than 1 move" 
+---
+ "No_pink_barrier_below", "There is no pink barrier right below the box" 
+"Pink_box_below", "There is a pink box below the yellow box." 
+"No_pink_box_below", "There is no pink box below the yellow box."
+"No_bug_down_1", "There is no bug down for 1 move" 
+ "Bug_down", "There is a bug down" 
+---
+"No_bug_down_m", "There is no bug down for more than 1 move"
+---
+ "black_space_below", "There is empty lack space below the box" 
+---
+"No_wall_on_the_left", "There is no wall on the left of the box" 
+"Wall_on_left", "There is wall left to the yellow box."
+"No_wall_on_left.", "There is no wall on left to the yellow box." 
+"Wall_left", "There is a wall on the left side" 
+"No_wall_left", "There is no wall on the left side"
+ "No_wall_on_left", "There is no wall on the left for the box to go" 
+---
+"Wall_left_m", "There is no wall on the left for more than 1 space" 
+---
+"No_pink_barrier_on_the_left", "There is no pink barrier to the left of the box" 
+"Pink_box_on_left", "There is a pink box on left of the yellow box." 
+"No_pink_box_on_left", "There is no pink box on left of the yellow box." 
+ "Bug_left", "There is a bug on the left"
+"No_bug_left", "There is no bug on the left"
+---
+"No_pink_barrier_on_top", "There is no pink barrier on top of the box carried by the player" 
+"Pink_box_above", "There is a pink box above." 
+"No_pink_box_above", "There is no pink box above."
+No_wall_upwards", "There is no pink wall in the upward direction. "
+"Bug_on_top", "There is a bug on the top side"
+"No_bug_on_top_1", "There is no bug on top for 1 move"
+---
+"No_bug_on_top_m", "There is no bug on top for more than 1 move" 
+---
+"Black_space_on_the_left", "There is a black space available to the left of the box"
+---
+ "Red_marker_on_the_left", "There is a red marker on the left of the box" 
+ "Red_target_on_left", "There is red target on the left of the yellow box." "No_red_target_on_left", "There is no red target on the left of the yellow box."
+---
+"No_pink_barrier_on_the_right", "There is no pink barrier on the right of the box" 
+"Pink_box_on_right", "There is a pink box on right of the yellow box." 
+"No_pink_box_on_right", "There is no pink box on right of the yellow box."
+"Bug_right", "There is a bug on the right side" 
+"No_bug_right", "There is no bug on the right side"
+---
+"Red_marker_on_the_right", "There is a red marker on the right of the box"
+"Target_on_right", "There is red target on the right of the yellow box." 
+"No_target_on_right", "There is no red target on the right of the yellow box."
+---
+ "No_wall_on_the_right", "There is no wall on the right of the box"
+"no_wall_on_the_right_of_the_box", "There is no wall on the right of the box so that it can't be pushed right"
+---
+"No_wall_on_right", "There is no wall on the right\n"
+---
+"No_wall_right_m", "There is no wall on the right for more than 1 space" 
+---
+ No_wall_on_the_top", "There is no wall on top of the box"
+"Wall_above", "There is wall above." 
+"No_wall_above.", "There is no wall above."
+ "Wall_up", "The wall is on the front of the player."
+"Wall_on_top", "There is a wall on top side\n" 
+"No_wall_on_top_1", "There is no wall on the top for 1 space." 
+"No_wall_on_top", "There is no brick wall on top"
+---
+"No_wall_on_top_m", "There is no wall on the top side for more than 1 space"
+---
+ "Red_target_below", "There is red target below the yellow box."
+"No_red_target_below", "There is no red target below the yellow box."
+---
+"red_target_above", "There is red target above." 
+"Target_up", "The target is on the upwards direction of the player."
+"Red_target", "There is a red target on top which is the destination"
+--
+ "avoid bug", "avoid bug to score the best points"
+"box_not_in_pitfall", "the box is not in the pitfall"
+"No_pink_obstacle", "There is no pink obstacle while going up which adds extra points to the score\n" 
+---
+"Box_on_left", "The box is on the left of the player." 
+"box_on_left", "the box is right on the left of the green creature"
+---
+"Box_on_right", "The box is on the right of the player."
+ "box_on_right", "the box is on the immediate right of the green creature"
+---
+"Box_up", "The box is in the upward direction of the player. "
+"box_above", "the box is right above the green creature"
+---
+"Wall_down_left_right", "There is a wall on the bottom, left and right sides\n"
+"Wall_on_bottom_left_right", "In this case, there will be a deadlock if box reaches to this position"
+
+
+--
+ "Wal_down_left", "There is a wall on the bottom and left sides" 
+ "Wall_left_bottom", "There is a wall on the left and bottom sides"
+---
+"Wall_down_right", "There is a wall on the bottom and right sides" 
+ "Wall_right_bottom", "There is a wall on the bottom and right sides"
+---
+ "Wall_left_top", "There is a wall on the left and top sides"
+"Wall_top_left", "There is a wall on the top and left sides"
+---
+"Wall_left_bottom_top", "There is a wall on the left, bottom and top sides" 
+---
+"Wall_right_top", "There is a wall on the top and right sides"
+"Wall_top_right", "There is a wall on the top and right sides"
+----
+"Wall_top_bottom_right", "There is a wall on the top, bottom, and right sides" 
+"Wall_on_right_top_bottom", "There will be a situation of deadlock in case box goes in this." 
+---
+ "Wall_top_left_right", "There is a wall on the top, left, and right sides" 
+"Wall_top_left_right", "In this case there is no way to go back and continue the game. Its deadend" 
+---
+Wall_on_top_down_left", "There will be a situation of deadlock in case the box goes in this position"
+---
+ "box_below", "the box is right below the green creature"
+---
+"no_wall_below_the_box", "there is no wall right below the box that blocks it from being pushed down"
+---
+"no_wall_on_the_left_of_the_box", "there is no wall on the left of the box blocking it from being pushed left"
+---
+No_wall_above_the_box", "there is no wall blocking the box from being pushed up"
+---
+--------------------------------------------------------------------------
+Unclear Concepts:
+"outer wall", "avoid the outer wall if the direction of the target cannot be accessed from that wall"
+----
+"3 walls", "if the box is surrounded by three walls restart the game"
+----------------

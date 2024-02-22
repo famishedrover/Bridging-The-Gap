@@ -1,0 +1,60 @@
+concept_blank_cell_below:
+- 4
+- 4
+- 4
+concept_blank_cell_on_left:
+- 4
+- 4
+- 4
+concept_box_below:
+- 1
+- 7
+- 7
+concept_box_on_right:
+- 1
+- 7
+- 7
+concept_box_on_top:
+- 2
+- 6
+- 6
+concept_no_pink_cell_below_m:
+- 5
+- 3
+- 3
+concept_no_pink_cell_on_top_m:
+- 6
+- 2
+- 2
+concept_no_wall_below_m:
+- 3
+- 5
+- 5
+concept_no_wall_on_right_m:
+- 6
+- 2
+- 2
+concept_no_wall_on_top_m:
+- 8
+- 0
+- 0
+concept_pink_cell_on_right:
+- 1
+- 7
+- 7
+concept_pink_cell_on_top:
+- 1
+- 7
+- 7
+concept_wall_below:
+- 3
+- 5
+- 5
+concept_wall_down_left:
+- 1
+- 7
+- 7
+concept_wall_on_left:
+- 4
+- 4
+- 4

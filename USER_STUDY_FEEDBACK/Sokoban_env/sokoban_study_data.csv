@@ -1,0 +1,21 @@
+age,ai_knowledge,education,exp_additional_info,exp_rating,Sokoban environment,gender,plan_knowledge,planning_formalisms,selected_exp
+26,yes,masters,"As someone who has studied AI, I would have specified the successor functions and path costs associated with each state transition since this is a planning problem. It would have been easier to understand the role of grabbing the butterfly on the cost of the steps taken.",3,sokoban-swtich,male,yes,"Simple reflex, utility based (min-max, alpha beta, etc), learning agent based (reinforcement learning, supervised and unsupervised), and so on...",concept_exp
+23,no,masters,,2,sokoban-swtich,male,no,,concept_exp
+21,yes,undergrad,,1,sokoban-swtich,female,no,,concept_exp
+,,undergrad,,3,sokoban-swtich,do_not_specify,,,concept_exp
+22,no,undergrad,,3,sokoban-swtich,male,no,,concept_exp
+26,no,masters,,4,sokoban-swtich,male,no,,simple_exp
+25,no,masters,,2,sokoban-swtich,male,no,,simple_exp
+30,yes,masters,,3,sokoban-swtich,male,no,NA,concept_exp
+22,yes,masters,The cost of the steps taken to move to the right and activate the butterfly box.,3,sokoban-swtich,female,yes,"Planning STRIPS/PDDL representation progression, regression, plan-space planning; subgoal interactions, heuristics ",concept_exp
+24,yes,masters,,4,sokoban-swtich,male,yes,"MDPs, PoMDPs",concept_exp
+23,yes,undergrad,The first explanation made more sense to me as it provided the cost function evaluation for each and every step.,4,sokoban-cell,female,yes,STRIPS,simple_exp
+23,no,masters,No,5,sokoban-cell,female,no,,concept_exp
+26,no,undergrad,,5,sokoban-cell,male,no,,concept_exp
+22,yes,masters,,5,sokoban-cell,male,yes,PDDL,simple_exp
+22,yes,undergrad,,4,sokoban-cell,male,yes,"BFS, DFS, A*, D*lite",concept_exp
+22,yes,undergrad,,2,sokoban-cell,male,no,,concept_exp
+26,no,undergrad,,4,sokoban-cell,male,no,,simple_exp
+27,no,masters,We needed more information on how was the initial path cost was calculated. We need to have information about cost calculation for both the paths to know which path is most effective.,3,sokoban-cell,female,no,"I have read about some path planning algorithms for robot path planning like A-STAR,D-STAR, RRT-STAR.",concept_exp
+23,no,undergrad,,4,sokoban-cell,male,no,,concept_exp
+26,yes,masters,,3,sokoban-cell,male,yes,"Backward chaining search, forward chaining state space search",simple_exp

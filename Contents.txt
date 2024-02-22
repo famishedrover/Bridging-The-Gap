@@ -1,0 +1,5 @@
+The Supplementary package contains
+1. USER_STUDY_FEEDBACK - the data received from the user studies
+2. BLACKBOX_CODE - The code used in the experiment along with the steps to run it
+3. MODELS - pre-trained models we used in our experiments
+4. Study_Website_Pdfs - Screenshots of the user study interfaces.

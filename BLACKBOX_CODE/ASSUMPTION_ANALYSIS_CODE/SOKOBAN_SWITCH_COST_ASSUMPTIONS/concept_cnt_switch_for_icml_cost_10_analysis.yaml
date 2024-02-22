@@ -1,0 +1,295 @@
+act_cost_count:
+- 0
+- 46682
+- 47057
+- 47175
+- 46568
+- 0
+- 0
+- 0
+- 0
+act_cost_map:
+- {}
+- concept_above_switch: 2186
+  concept_box_above: 2747
+  concept_box_below: 1101
+  concept_box_left: 1940
+  concept_box_right: 1176
+  concept_empty_above: 34838
+  concept_empty_below: 25612
+  concept_empty_left: 30682
+  concept_empty_right: 26579
+  concept_left_switch: 3566
+  concept_target_above: 773
+  concept_target_below: 347
+  concept_target_left: 485
+  concept_target_right: 439
+  concept_wall_above: 8324
+  concept_wall_below: 17436
+  concept_wall_left: 13575
+  concept_wall_left_below_ofbox: 1324
+  concept_wall_right: 14922
+- concept_above_switch: 2123
+  concept_box_above: 2722
+  concept_box_below: 1142
+  concept_box_left: 1927
+  concept_box_right: 1139
+  concept_empty_above: 35187
+  concept_empty_below: 25830
+  concept_empty_left: 31026
+  concept_empty_right: 26797
+  concept_left_switch: 3612
+  concept_order_T2D_target_box_player: 130
+  concept_target_above: 764
+  concept_target_below: 361
+  concept_target_left: 448
+  concept_target_right: 455
+  concept_wall_above: 8384
+  concept_wall_below: 17601
+  concept_wall_left: 13656
+  concept_wall_left_below_ofbox: 1337
+  concept_wall_right: 15054
+- concept_above_switch: 2277
+  concept_box_above: 2851
+  concept_box_below: 1156
+  concept_box_left: 1975
+  concept_box_right: 1174
+  concept_empty_above: 35299
+  concept_empty_below: 25940
+  concept_empty_left: 30789
+  concept_empty_right: 27011
+  concept_left_switch: 3540
+  concept_order_T2D_target_box_player: 121
+  concept_target_above: 725
+  concept_target_below: 352
+  concept_target_left: 492
+  concept_target_right: 478
+  concept_wall_above: 8300
+  concept_wall_below: 17450
+  concept_wall_left: 13919
+  concept_wall_left_below_ofbox: 1277
+  concept_wall_right: 14972
+- concept_above_switch: 2184
+  concept_box_above: 2791
+  concept_box_below: 1070
+  concept_box_left: 1848
+  concept_box_right: 1126
+  concept_empty_above: 34808
+  concept_empty_below: 25397
+  concept_empty_left: 30689
+  concept_empty_right: 26505
+  concept_left_switch: 3598
+  concept_order_T2D_target_box_player: 120
+  concept_target_above: 728
+  concept_target_below: 317
+  concept_target_left: 481
+  concept_target_right: 479
+  concept_wall_above: 8241
+  concept_wall_below: 17600
+  concept_wall_left: 13550
+  concept_wall_left_below_ofbox: 1312
+  concept_wall_right: 14860
+- {}
+- {}
+- {}
+- {}
+action_count:
+- 122872
+- 121506
+- 122574
+- 122862
+- 122434
+- 122546
+- 122426
+- 122733
+- 122592
+total_concept_count_mark:
+- concept_above_switch: 4646
+  concept_box_above: 8249
+  concept_box_below: 2834
+  concept_box_left: 4753
+  concept_box_right: 3485
+  concept_empty_above: 92747
+  concept_empty_below: 72597
+  concept_empty_left: 80352
+  concept_empty_right: 73480
+  concept_left_switch: 7700
+  concept_order_T2D_target_box_player: 1056
+  concept_switch_on: 75702
+  concept_target_above: 2367
+  concept_target_below: 1101
+  concept_target_left: 1441
+  concept_target_right: 1603
+  concept_wall_above: 19509
+  concept_wall_below: 41694
+  concept_wall_left: 36326
+  concept_wall_left_below_ofbox: 2604
+  concept_wall_right: 36604
+- concept_above_switch: 4641
+  concept_box_above: 7346
+  concept_box_below: 2810
+  concept_box_left: 4844
+  concept_box_right: 3498
+  concept_empty_above: 92166
+  concept_empty_below: 71639
+  concept_empty_left: 79097
+  concept_empty_right: 72179
+  concept_left_switch: 7732
+  concept_switch_on: 74824
+  concept_target_above: 2390
+  concept_target_below: 1065
+  concept_target_left: 1522
+  concept_target_right: 1524
+  concept_wall_above: 19604
+  concept_wall_below: 41351
+  concept_wall_left: 36043
+  concept_wall_left_below_ofbox: 2662
+  concept_wall_right: 36573
+- concept_above_switch: 4472
+  concept_box_above: 8233
+  concept_box_below: 2915
+  concept_box_left: 4923
+  concept_box_right: 3448
+  concept_empty_above: 92496
+  concept_empty_below: 72629
+  concept_empty_left: 80402
+  concept_empty_right: 73231
+  concept_left_switch: 7799
+  concept_order_T2D_target_box_player: 1106
+  concept_switch_on: 75517
+  concept_target_above: 2346
+  concept_target_below: 1114
+  concept_target_left: 1529
+  concept_target_right: 1523
+  concept_wall_above: 19499
+  concept_wall_below: 41444
+  concept_wall_left: 35720
+  concept_wall_left_below_ofbox: 2703
+  concept_wall_right: 36573
+- concept_above_switch: 4577
+  concept_box_above: 8405
+  concept_box_below: 2888
+  concept_box_left: 4876
+  concept_box_right: 3537
+  concept_empty_above: 92570
+  concept_empty_below: 72769
+  concept_empty_left: 80285
+  concept_empty_right: 73373
+  concept_left_switch: 7707
+  concept_order_T2D_target_box_player: 1099
+  concept_switch_on: 75687
+  concept_target_above: 2258
+  concept_target_below: 1156
+  concept_target_left: 1456
+  concept_target_right: 1638
+  concept_wall_above: 19629
+  concept_wall_below: 41472
+  concept_wall_left: 36245
+  concept_wall_left_below_ofbox: 2673
+  concept_wall_right: 36607
+- concept_above_switch: 4519
+  concept_box_above: 8103
+  concept_box_below: 2840
+  concept_box_left: 4752
+  concept_box_right: 3548
+  concept_empty_above: 92561
+  concept_empty_below: 72280
+  concept_empty_left: 80248
+  concept_empty_right: 73181
+  concept_left_switch: 7773
+  concept_order_T2D_target_box_player: 1062
+  concept_switch_on: 75866
+  concept_target_above: 2271
+  concept_target_below: 1086
+  concept_target_left: 1504
+  concept_target_right: 1536
+  concept_wall_above: 19499
+  concept_wall_below: 41709
+  concept_wall_left: 35930
+  concept_wall_left_below_ofbox: 2670
+  concept_wall_right: 36396
+- concept_above_switch: 4535
+  concept_box_above: 8169
+  concept_box_below: 2937
+  concept_box_left: 4982
+  concept_box_right: 3473
+  concept_empty_above: 92441
+  concept_empty_below: 72610
+  concept_empty_left: 80228
+  concept_empty_right: 73084
+  concept_left_switch: 7824
+  concept_order_T2D_target_box_player: 1090
+  concept_switch_on: 75533
+  concept_target_above: 2351
+  concept_target_below: 1110
+  concept_target_left: 1532
+  concept_target_right: 1600
+  concept_wall_above: 19585
+  concept_wall_below: 41354
+  concept_wall_left: 35804
+  concept_wall_left_below_ofbox: 2615
+  concept_wall_right: 36565
+- concept_above_switch: 4573
+  concept_box_above: 8247
+  concept_box_below: 2937
+  concept_box_left: 4883
+  concept_box_right: 3374
+  concept_empty_above: 92414
+  concept_empty_below: 72641
+  concept_empty_left: 80192
+  concept_empty_right: 73387
+  concept_left_switch: 7679
+  concept_order_T2D_target_box_player: 1114
+  concept_switch_on: 75830
+  concept_target_above: 2338
+  concept_target_below: 1180
+  concept_target_left: 1475
+  concept_target_right: 1652
+  concept_wall_above: 19427
+  concept_wall_below: 41095
+  concept_wall_left: 35876
+  concept_wall_left_below_ofbox: 2587
+  concept_wall_right: 36334
+- concept_above_switch: 4538
+  concept_box_above: 8177
+  concept_box_below: 2822
+  concept_box_left: 4905
+  concept_box_right: 3407
+  concept_empty_above: 92722
+  concept_empty_below: 72736
+  concept_empty_left: 80384
+  concept_empty_right: 73072
+  concept_left_switch: 7819
+  concept_order_T2D_target_box_player: 1108
+  concept_switch_on: 75705
+  concept_target_above: 2312
+  concept_target_below: 1114
+  concept_target_left: 1478
+  concept_target_right: 1594
+  concept_wall_above: 19522
+  concept_wall_below: 41523
+  concept_wall_left: 35966
+  concept_wall_left_below_ofbox: 2639
+  concept_wall_right: 36841
+- concept_above_switch: 4561
+  concept_box_above: 8326
+  concept_box_below: 2966
+  concept_box_left: 4771
+  concept_box_right: 3485
+  concept_empty_above: 92330
+  concept_empty_below: 72211
+  concept_empty_left: 80443
+  concept_empty_right: 73164
+  concept_left_switch: 7774
+  concept_order_T2D_target_box_player: 1093
+  concept_switch_on: 75777
+  concept_target_above: 2322
+  concept_target_below: 1152
+  concept_target_left: 1478
+  concept_target_right: 1533
+  concept_wall_above: 19614
+  concept_wall_below: 41702
+  concept_wall_left: 35900
+  concept_wall_left_below_ofbox: 2668
+  concept_wall_right: 36636
+total_states: 1102545
